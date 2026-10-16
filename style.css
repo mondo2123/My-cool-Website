@@ -1,0 +1,23 @@
+@font-face {
+    font-family: "Rodin";
+    src: url(Fonts/FOT-Rodin\ Pro\ DB.otf) format("opentype");
+    font-weight: 400;
+}       
+
+.bottombuttons {
+    width: 10px;
+    height: auto;
+    
+
+}
+
+body {
+    font-family: "Rodin";
+    background-image: url("Dsi\ Wallpaper.png");
+    background-size: 100% auto;
+}
+h1 {
+    text-align: center;
+
+}
+/*Aligns the overhead title-text in the middle*/
