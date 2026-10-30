@@ -61,13 +61,18 @@
 }
 
 
-div {
+hidden {
+    display: none !important;
+
+}
+
+.blog {
+    border: 1vh solid #d8d8d8; /*Another border*/
     margin: auto;
     padding: 10px;
     background-color: #6d6d6d80;
     width: 75vh;
     height: auto;
-    border: #d8d8d8;
 }
 
 body {
@@ -86,4 +91,4 @@ h1 {
     text-align: center;
 
 }
-/*Aligns the overhead title-text in the middle*/
+/*Title of website*/

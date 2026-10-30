@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
-<script src="Jajascript.js">
-</script>
 <head>
+    <script src="Jajascript.js" defer></script>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -13,11 +12,25 @@
     <main>
     
     <h1>Mondo.idkyet</h1>
-    <div>
-    Testing Blog<br>The DSi was cool <br>But I use my 3DS more often nowadays
+    <div class="blog">
+        <button onclick="blogWechsler()">Switch</button>
+
+        <section id="blogPage">
+            <h2>Testing Blog</h2>
+            <p>
+                The DSi was cool <br>
+                But I use my 3DS more often nowadays
+            </p>
+        </section>
+        
+        <section id="secondPage" hidden>
+            <h2>Testing Second Page</h2>
+            <p>
+                I also modded a psp <br>
+                Playing ps1 games on it is fun
+            </p>
+        </section>
     </div>
-
-
 
 
     </main>
