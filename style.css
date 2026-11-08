@@ -66,6 +66,14 @@ hidden {
 
 }
 
+.mondos {
+    position: fixed;
+    left: 0;
+    width: 35vh;
+    bottom: 50vh;
+    height: auto;
+}
+
 .blog {
     border: 1vh solid #d8d8d8; /*Another border*/
     margin: auto;
