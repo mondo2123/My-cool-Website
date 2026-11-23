@@ -112,6 +112,14 @@ iframe {
     height: auto;
 }
 
+.yt-title{
+    position: fixed;
+    right: 1vh;
+    width: 35vh;
+    top: 17vh;
+    height: auto;
+}
+
 .doodle {
     width: 100%;
     height: auto;

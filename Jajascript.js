@@ -11,6 +11,11 @@ const mondoImages = [
     "Mondos/mondo2.gif",
     "Mondos/mondo3.gif",
     "Mondos/mondo4.gif",
+    "Mondos/mondo5.png",
+    "Mondos/mondo6.png",
+    "Mondos/mondo7.png",
+    "Mondos/mondo8.png",
+    
 
 ]
 const mondoImg = document.getElementById("mondoImage");
